@@ -1,0 +1,15 @@
+body {
+    display: flex;
+    align-content: center;
+    background: black;
+    align-items: center;
+    margin: 0;
+}
+
+#gameCanvas {
+    border-left: none;
+    border-right: none;
+    image-rendering: pixelated;
+    width: 100%;
+    margin: 0 auto;
+}
